@@ -43,7 +43,7 @@
     --radius: 0.75rem;
 
     /* Custom gradients */
-    --gradient-primary: linear-gradient(135deg, hsl(230 85% 60%) 0%, hsl(235 75% 55%) 100%);
+    --gradient-primary: linear-gradient(135deg, #6A24F0 0%, #8D2AFC 100%);
     --gradient-hero: linear-gradient(180deg, hsl(220 30% 98%) 0%, hsl(225 40% 96%) 100%);
     --gradient-card: linear-gradient(145deg, hsl(0 0% 100%) 0%, hsl(225 30% 98%) 100%);
     
@@ -93,7 +93,7 @@
     --input: 225 35% 20%;
     --ring: 230 85% 65%;
 
-    --gradient-primary: linear-gradient(135deg, hsl(230 85% 65%) 0%, hsl(235 75% 60%) 100%);
+    --gradient-primary: linear-gradient(135deg, #6A24F0 0%, #8D2AFC 100%);
     --gradient-hero: linear-gradient(180deg, hsl(225 50% 8%) 0%, hsl(225 45% 10%) 100%);
     --gradient-card: linear-gradient(145deg, hsl(225 45% 12%) 0%, hsl(225 40% 14%) 100%);
 
