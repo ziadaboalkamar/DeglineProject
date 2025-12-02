@@ -5,7 +5,8 @@ import {
   Cloud, 
   Shield, 
   Lightbulb,
-  ArrowRight
+  ArrowRight,
+  DraftingCompass
 } from "lucide-react";
 
 const ServicesSection = () => {
@@ -35,10 +36,10 @@ const ServicesSection = () => {
       features: ["AWS & Azure", "CI/CD Pipelines", "Cloud Migration"],
     },
     {
-      icon: Shield,
-      title: "Cybersecurity",
-      description: "Comprehensive security audits and implementations to protect your digital assets.",
-      features: ["Security Audits", "Penetration Testing", "Compliance"],
+      icon: DraftingCompass,
+      title: "UI/UX Design",
+      description: "Intuitive and engaging user interfaces designed to enhance user satisfaction and drive conversions.",
+      features: ["User Research", "Wireframing & Prototyping", "Visual Design"],
     },
     {
       icon: Lightbulb,
