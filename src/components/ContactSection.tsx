@@ -36,7 +36,7 @@ const ContactSection = () => {
           email: formData.email,
           subject: formData.subject,
           message: formData.message,
-          to: "ziadaboalkamar@gmail.com",
+          to: "diglinetechnology@gmail.com",
         }),
       });
 
@@ -104,7 +104,7 @@ const ContactSection = () => {
                       href="mailto:contact@digline.tech" 
                       className="text-slate-300 hover:text-blue-400 transition-colors"
                     >
-                      contact@digline.tech
+                      diglinetechnology@gmail.com
                     </a>
                   </div>
                 </div>
